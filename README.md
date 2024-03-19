@@ -1,6 +1,6 @@
-<h2> <img src="https://giffiles.alphacoders.com/163/163328.gif" width="50"> Hello! Nice to meet you, I'm Daniellachu</h2>
+<h2> <img src="https://giffiles.alphacoders.com/163/163328.gif" width="50"> Hello! Nice to meet you, I'm Daniellachu 🍥</h2>
 
-<p> 🍥 Visit my 
+<p> 💌 Visit my 
     <a href="https://daniellachu-portfolio.vercel.app/"> Portfolio! </a> 
 </p>
 
@@ -13,19 +13,15 @@
 
 const daniella = {
   pronouns: "she" | "her",
-  desc:["I'm a UX/UI Designer and a Front-end Developer"]
+  desc:["I'm a UX/UI Designer and a Front-end Developer"],
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, NextJS, Node, Storybook, Jest, Cypress, Wordpress, Expo, Android Studio],
 }
 ```
 
-<p>Checkout a project i did </p>
+<h3>Checkout a project i did </h3>
 
-<p>
-    Github:
-    <a href="https://github.com/Daniellachu/Under-the-Waves"></a> 
-    Web app: 
-    <a href="https://under-the-waves.vercel.app/"></a> 
-</p>
+Github: <a href="https://github.com/Daniellachu/Under-the-Waves"></a> 
+Web app: <a href="https://under-the-waves.vercel.app/"></a> 
 
 🍡 From [Daniellachu](https://github.com/Daniellachu)
