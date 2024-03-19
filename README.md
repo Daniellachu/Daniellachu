@@ -19,9 +19,15 @@ const daniella = {
 }
 ```
 
-<h3>Checkout a project i did </h3>
+<h3> 🪷 Checkout a project i did! Under the Waves</h3>
 
-<p> Github: <a href="https://github.com/Daniellachu/Under-the-Waves"></a> </p>
-<p> Web app: <a href="https://under-the-waves.vercel.app/"></a> </p>
+<a href="https://github.com/Daniellachu/Under-the-Waves">
+    <p> Github</p>
+</a>
+
+
+<a href="https://under-the-waves.vercel.app/">
+    <p>Web app</p>
+</a> 
 
 🍡 From [Daniellachu](https://github.com/Daniellachu)
