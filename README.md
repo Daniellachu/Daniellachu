@@ -8,8 +8,8 @@ const daniella = {
   pronouns: "she" | "her",
   desc:["I'm a UX/UI Designer and a Front-end Developer"],
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, NextJS, Node, Storybook, Jest, Cypress, Wordpress, Expo, Android Studio],
-  hobbies: [Digital Art, Painting, Photography, Journal, Volleyball, Badminton]
+  tools: [React, NextJS, Node, Storybook, Jest, Cypress, Wordpress, Expo, Android Studio, Vercel],
+  hobbies: [Digital Art, Painting, Photography, Journaling, Volleyball, Badminton]
 }
 ```
 
@@ -18,7 +18,7 @@ const daniella = {
 - 🧋 Bobito: https://bobito-bubble-tea.vercel.app/
 
 ### <h3> I’m currently working on ... </h3>
-- 🏖 Orbit : https://orbit-landing-page-daniella.vercel.app
+- 🏖 Orbit : https://orbit-landing-page-daniella.vercel.app/
 
 ### 💌 Where to find me:
 - 💻 Portfolio: https://daniellachu-portfolio.vercel.app/
