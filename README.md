@@ -13,10 +13,11 @@ const daniella = {
 }
 ```
 
-### <h3> ☕ Checkout a project I did called "Under the Waves"</h3>
-- [Under The Waves](https://under-the-waves.vercel.app/)
+### <h3> ☕ Checkout my favourite projects</h3>
+- 🪼 Under The Waves: https://under-the-waves.vercel.app/
+- 🧋 Bobito: https://bobito-bubble-tea.vercel.app/
 
-### <h3> 🪼 I’m currently working on ... </h3>
+### <h3> I’m currently working on ... </h3>
 - [ORBIT](https://orbit-landing-page-daniella.vercel.app/)
 
 ### 💌 Where to find me:
