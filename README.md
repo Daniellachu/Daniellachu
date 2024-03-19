@@ -22,7 +22,7 @@ const daniella = {
 ### 💌 Where to find me:
 - 💻 Portfolio: https://daniellachu-portfolio.vercel.app/
 - 🍙 LinkedIn: https://www.linkedin.com/in/daniellachu/
-- 🪷 Instagram: https://twitter.com/mangamaui
+- 🪷 Instagram: https://www.instagram.com/digitaldaniellachu/
 - 🍵 Behance: http://mangamaui.dribbble.com/
 - 🔗 Github: https://github.com/Daniellachu/
 
