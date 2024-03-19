@@ -21,7 +21,7 @@ const daniella = {
 
 <h3>Checkout a project i did </h3>
 
-Github: <a href="https://github.com/Daniellachu/Under-the-Waves"></a> 
-Web app: <a href="https://under-the-waves.vercel.app/"></a> 
+<p> Github: <a href="https://github.com/Daniellachu/Under-the-Waves"></a> </p>
+<p> Web app: <a href="https://under-the-waves.vercel.app/"></a> </p>
 
 🍡 From [Daniellachu](https://github.com/Daniellachu)
