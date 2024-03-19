@@ -23,7 +23,7 @@ const daniella = {
 - 💻 Portfolio: https://daniellachu-portfolio.vercel.app/
 - 🍙 LinkedIn: https://www.linkedin.com/in/daniellachu/
 - 🪷 Instagram: https://www.instagram.com/digitaldaniellachu/
-- 🍵 Behance: http://mangamaui.dribbble.com/
+- 🍵 Behance: https://www.behance.net/danielldelacr5/
 - 🔗 Github: https://github.com/Daniellachu/
 
 🍡 From [@Daniellachu](https://github.com/Daniellachu)
