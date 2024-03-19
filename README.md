@@ -18,7 +18,7 @@ const daniella = {
 - 🧋 Bobito: https://bobito-bubble-tea.vercel.app/
 
 ### <h3> I’m currently working on ... </h3>
-- [ORBIT](https://orbit-landing-page-daniella.vercel.app/)
+- 🏖 Orbit : https://orbit-landing-page-daniella.vercel.app
 
 ### 💌 Where to find me:
 - 💻 Portfolio: https://daniellachu-portfolio.vercel.app/
