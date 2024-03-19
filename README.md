@@ -16,10 +16,12 @@
 
 const daniella = {
   pronouns: "she" | "her",
+  desc:["I'm a UX/UI Designer and a Front-end Developer"]
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, NextJS, Node, Storybook, Jest, Cypress, Wordpress, Expo, Android Studio],
 }
 ```
 
-<img src="https://i.pinimg.com/originals/4a/e7/58/4ae7589d934777eb4d2462020cc0c414.gif width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<h2>Checkout my projects Github:<a href="https://github.com/Daniellachu/Under-the-Waves"></a> web-application:<a href="https://under-the-waves.vercel.app/"></a>  <img src="https://i.pinimg.com/originals/4a/e7/58/4ae7589d934777eb4d2462020cc0c414.gif" width="50"></h2>
+
 
