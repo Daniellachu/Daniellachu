@@ -1,16 +1,13 @@
-<h2>👋 Hello! Nice to meet you, I'm Daniellachu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> <img src="https://giffiles.alphacoders.com/163/163328.gif" width="50"> Hello! Nice to meet you, I'm Daniellachu</h2>
 
-<p>Visit my 
+<p> 🍥 Visit my 
     <a href="https://daniellachu-portfolio.vercel.app/"> Portfolio! </a> 
 </p>
 
 [![Linkedin: Daniella Dela Cruz](https://img.shields.io/badge/-daniellachu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniellachu/)](https://www.linkedin.com/in/daniellachu)
 [![GitHub Daniellachu](https://img.shields.io/github/followers/daniellachu?label=follow&style=social)](https://github.com/Daniellachu)
 
-### <img src="https://giffiles.alphacoders.com/163/163328.gif" width="50"> A little more about me...  
-
-
-<p>I'm a UX/UI Designer and a Front-end Developer</p>
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 
@@ -22,6 +19,13 @@ const daniella = {
 }
 ```
 
-<h2>Checkout my projects Github:<a href="https://github.com/Daniellachu/Under-the-Waves"></a> web-application:<a href="https://under-the-waves.vercel.app/"></a>  <img src="https://i.pinimg.com/originals/4a/e7/58/4ae7589d934777eb4d2462020cc0c414.gif" width="50"></h2>
+<p>Checkout a project i did </p>
 
+<p>
+    Github:
+    <a href="https://github.com/Daniellachu/Under-the-Waves"></a> 
+    Web app: 
+    <a href="https://under-the-waves.vercel.app/"></a> 
+</p>
 
+🍡 From [Daniellachu](https://github.com/Daniellachu)
