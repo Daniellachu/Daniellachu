@@ -17,13 +17,13 @@ const daniella = {
 - 🪼 Under The Waves: https://under-the-waves.vercel.app/
 - 🧋 Bobito: https://bobito-bubble-tea.vercel.app/
 
-### <h3> I’m currently working on ... </h3>
+### <h3> 💻 I’m currently working on ... </h3>
 - 🏖 Orbit : https://orbit-landing-page-daniella.vercel.app/
 
 ### 💌 Where to find me:
-- 💻 Portfolio: https://daniellachu-portfolio.vercel.app/
+- 🪷 Portfolio: https://daniellachu-portfolio.vercel.app/
 - 🍙 LinkedIn: https://www.linkedin.com/in/daniellachu/
-- 🪷 Instagram: https://www.instagram.com/digitaldaniellachu/
+- 🎱 Instagram: https://www.instagram.com/digitaldaniellachu/
 - 🍵 Behance: https://www.behance.net/danielldelacr5/
 - 🔗 Github: https://github.com/Daniellachu/
 
