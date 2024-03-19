@@ -1,4 +1,4 @@
-# <img src="https://giffiles.alphacoders.com/163/163328.gif" width="50"> Hello! Nice to meet you, I'm Daniellachu 🍥
+<img src="https://giffiles.alphacoders.com/163/163328.gif" width="100"> Hello! Nice to meet you, I'm Daniellachu 🍥
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...  
 
